@@ -1,0 +1,8 @@
+footer{
+    background-color: brown;
+    height: 200px;
+    text-align: center;
+}
+.btn .btn{
+    border-radius: 0;
+}
